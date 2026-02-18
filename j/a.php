@@ -7,6 +7,8 @@
 
 <body>
 <h1>งาน J ณัฐสิทธิ์ พุฒธรรม (ปอนด์)</h1>
-<td><img src="1.jpg" width="250"></td>
+<td>
+	<tr><img src="1.jpg" width="250"></tr>
+</td>
 </body>
 </html>
