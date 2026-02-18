@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>จัดการออเดอร์ - อนัญญา</title>
+    <title>จัดการออเดอร์ - ณัฐสิทธิ์</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Sarabun:wght@300;400;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css">
@@ -134,7 +134,7 @@
 </div>
 
 <footer class="py-5 text-center text-muted">
-    <small>ออกแบบและพัฒนาโดย อนัญญา ผลจันทร์ (ตาล)</small>
+    <small>ออกแบบและพัฒนาโดย ณัฐสิทธิ์ พุฒธรรม (ปอนด์)</small>
 </footer>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>

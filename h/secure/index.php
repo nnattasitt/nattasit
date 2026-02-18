@@ -7,7 +7,7 @@ include_once("connectdb.php"); // เชื่อมต่อฐานข้อ�
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>เข้าสู่ระบบ - อนัญญา</title>
+    <title>เข้าสู่ระบบ - ณัฐสิทธิ์</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Sarabun:wght@300;400;500&display=swap" rel="stylesheet">
     <style>
@@ -83,7 +83,7 @@ include_once("connectdb.php"); // เชื่อมต่อฐานข้อ�
                 </div>
             </div>
             <div class="text-center mt-3 text-muted">
-                <small>© อนัญญา ผลจันทร์ (ตาล)</small>
+                <small>© ณัฐสิทธิ์ พุฒธรรม (ปอนด์)</small>
             </div>
         </div>
     </div>
